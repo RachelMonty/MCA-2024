@@ -17,11 +17,15 @@ week 4 <br>
 task 1 <br>
 this week was uploading our mei files into jsymbolic and looking at what the <br>
 range:
+<br>
 mean pitch:
-most common pitch class: 
+<br>
+most common pitch class:
+<br>
 last pitch: 
+<br>
 and most common rhythmic value: 
-
+<br>
 week 5 <br>
 week 5 was including the metadata aboht the piece into the mei files. Using the mei metadata standards i was able to identify the tags and the order in which they shoukd appear, i did use mei friend to in put the code and change it * screen shot* 
 but i dont think it linked with my github so i just edited it on the verevio. 
