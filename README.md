@@ -26,6 +26,10 @@ last pitch:
 <br>
 and most common rhythmic value: 
 <br>
+
+insert screen shot of histograms and graphs 
+
+
 week 5 <br>
 week 5 was including the metadata aboht the piece into the mei files. Using the mei metadata standards i was able to identify the tags and the order in which they shoukd appear, i did use mei friend to in put the code and change it * screen shot* 
 but i dont think it linked with my github so i just edited it on the verevio. 
@@ -35,6 +39,47 @@ artist/composer: 5 Seconds Of Summer/ Luke Hemmings, Calum Hood, Ashton Irwin & 
 colaborations: Mitchy Collins and Andrew Goldstein. <br>
 Editor/produer: Andy Goldstein<br>
 publisher: Capitol Records <br> 
+
+week 7 <br> 
+week seven was to create  second mei file of the peice and add  genre clasifcations 
+the classifications i have went with are: 
+
+
+
+
+
+week 8 <br> 
+week 8 was seperate from the other lab tasks ans involved analysing recordings ans gathering metadata for them . 
+the metadata i gathered: <br> 
+Title 
+<br>
+Artist
+<br>
+Composer
+<br>
+Copyright info (if any)
+<br>
+Genre
+<br>
+Source
+<br>
+File/audio format
+<br>
+Number of channels
+<br>
+Sample rate
+<br>
+Bits per second
+<br>
+Duration
+<br>
+
+task 2 
+insert link or screen shot of spectigram of the audio 
+
+
+ One advantage of a time-frequency analysis over a waveform-based analysis would be 
+
 
 
 
