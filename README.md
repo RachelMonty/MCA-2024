@@ -1,6 +1,6 @@
-#Five Seconds Of Summer or Hans Zimmer
+i have choson either Five Seconds Of Summer or Hans Zimmer
 for my theme for this project i havent chosen just one once ive done more research on the two themes i will pick one and soley focus on that one, however i have chosen a pop rock band called five seconds of summer or the well known composer known for creating some of the best movie soundtracks of all time Hans Zimmer. the music scores for 5 seconds of summer are available online many people have taken the time to cover and write out the sheet music for their songs, meta data for the band icluding, song names, members, track lists, albums, lables and so on are relatively easier to aquire as many websites and or magazines will and have reported this kind of news. as faras audio files it may be difficult to actually download them as many of the audios to their songs are streamed and downloaded in other apps such as spotify or apple music.
-i so far have had little experience with music curation and or music related data up until this class all ive had to do with music was listen to it. what i think may be challenging about the arstits or composer ive chisen might be that one hroup is in the pop genre and still have a very active career so it may be hard to souce some of the music data or gain access to it due to copyright. the composer i may also look at might have similar challanges as they usually create scores for films and tv shows so again gaining access to his sheetmusic or and even recordings may become difficult.
+i so far have had little experience with music curation and or music related data up until this class all ive had to do with music was listen to it. what i think may be challenging about the arstits or composer ive chosen might be that one group is in the pop genre and still have a very active career so it may be hard to souce some of the music data or gain access to it due to copyright. the composer i may also look at might have similar challanges as they usually create scores for films and tv shows so again gaining access to his sheetmusic or and even recordings may become difficult.
 
 week 2 lab work <br>
 task 1 <br>
@@ -26,7 +26,7 @@ week 5 <br>
 week 5 was including the metadata aboht the piece into the mei files. Using the mei metadata standards i was able to identify the tags and the order in which they shoukd appear, i did use mei friend to in put the code and change it * screen shot* 
 but i dont think it linked with my github so i just edited it on the verevio. 
 the metadata i included: <br>
-Title: Ghost Of Yoh 
+Title: Ghost Of You 
 artist/composer: 5 Seconds Of Summer/ Luke Hemmings, Calum Hood, Ashton Irwin & Michael clifford. 
 colaborations: Mitchy Collins and Andrew Goldstein. 
 Editor/produer: Andy Goldstein
