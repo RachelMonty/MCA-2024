@@ -27,10 +27,10 @@ week 5 was including the metadata aboht the piece into the mei files. Using the 
 but i dont think it linked with my github so i just edited it on the verevio. 
 the metadata i included: <br>
 Title: Ghost Of You 
-artist/composer: 5 Seconds Of Summer/ Luke Hemmings, Calum Hood, Ashton Irwin & Michael clifford. 
-colaborations: Mitchy Collins and Andrew Goldstein. 
-Editor/produer: Andy Goldstein
-publisher: Capitol Records 
+artist/composer: 5 Seconds Of Summer/ Luke Hemmings, Calum Hood, Ashton Irwin & Michael clifford. <br>
+colaborations: Mitchy Collins and Andrew Goldstein. <br>
+Editor/produer: Andy Goldstein<br>
+publisher: Capitol Records <br> 
 
 
 
