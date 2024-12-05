@@ -26,7 +26,7 @@ week 5 <br>
 week 5 was including the metadata aboht the piece into the mei files. Using the mei metadata standards i was able to identify the tags and the order in which they shoukd appear, i did use mei friend to in put the code and change it * screen shot* 
 but i dont think it linked with my github so i just edited it on the verevio. 
 the metadata i included: <br>
-Title: Ghost Of You 
+Title: Ghost Of You <br>
 artist/composer: 5 Seconds Of Summer/ Luke Hemmings, Calum Hood, Ashton Irwin & Michael clifford. <br>
 colaborations: Mitchy Collins and Andrew Goldstein. <br>
 Editor/produer: Andy Goldstein<br>
