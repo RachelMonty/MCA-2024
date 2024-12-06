@@ -12,6 +12,7 @@ this task was to put the cuosen music piece into muse score to generate a digita
 
 <img width="1470" alt="Screenshot 2024-12-06 at 10 43 16" src="https://github.com/user-attachments/assets/b3418e33-0c91-44bd-892a-6db95d38f067">
 [muse_score_piece.pdf](https://github.com/user-attachments/files/18037056/muse_score_piece.pdf)
+[muse
 
 
 
