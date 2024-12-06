@@ -107,6 +107,15 @@ insert link or screen shot of spectigram of the audio
 
  One advantage of a time-frequency analysis over a waveform-based analysis would be
 
+##week 9 <br<
+
+i chose to seperate my piece into three different section to the:
+first verse <br>
+chorus<br>
+bridge<br>
+
+
+
 
  
 
