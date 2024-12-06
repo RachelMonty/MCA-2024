@@ -76,19 +76,19 @@ week 8 was seperate from the other lab tasks ans involved analysing recordings a
 the metadata i gathered: <br> 
 
 
-|               |    song1     |   song 2    | song 3       |
-| ------------- | ------------- |---------------|------------|
-|   Title       | Discorsi a vapour|   Mutant club|          |
-|   Artist      | Rein          |  HoliznaCC0  |             |
-|  Composer     |               |            |               |
-| Copyright info)|              |  public domain             |            |
-| Genre         |  pop rock     |     pop       |            |
-|  Source       |     fma       |     fma       |            |
-|File/audio format|       mp3   |      mp3     |             |
-|Number of channels|            |            |               |   
-|Sample rate       |            |            |               |
-|Bits per second   |            |            |               |
-|Duration          |    5.21    |      2.10  |               |
+|               |    song1     |   song 2    | song 3           |
+| ------------- | ------------- |---------------|-------------|
+|   Title       | Discorsi a vapour|   Mutant club|   est        |
+|   Artist      | Rein          |  HoliznaCC0  |     Rein         |
+|  Composer     |               |            |                |
+| Copyright info)|              |  public domain|     personal use only         |            |
+| Genre         |  pop rock     |     pop       |       pop rock      |
+|  Source       |     fma       |     fma       |     fma        |
+|File/audio format|       mp3   |      mp3     |       mp3       |
+|Number of channels|            |            |                |   
+|Sample rate       |            |            |                |
+|Bits per second   |            |            |                |
+|Duration          |    5.21    |      2.10  |       3.40         |
 
 
 task 2 
