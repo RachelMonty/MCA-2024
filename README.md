@@ -16,7 +16,7 @@ this task was to put the cuosen music piece into muse score to generate a digita
 
 ## Ghost of You in Verovio
 
-You can view the interactive music score rendered with Verovio [here](https://your-username.github.io/your-repository-name).
+You can view the interactive music score rendered with Verovio [here]
 
 
 
