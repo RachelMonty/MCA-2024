@@ -19,6 +19,7 @@ this task was to put the cuosen music piece into muse score to generate a digita
 week 3 <br>
 task 1 <br>
 week three was converting our edited muse score piece ans converting it to XML and MEI files. 
+[ghost_of_you.mei](https://github.com/RachelMonty/MCA-2024/blob/master/ghost_of_you.midi)
 
 here can you see the two files, the three differences between them are...
 
