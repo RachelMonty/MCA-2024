@@ -1,17 +1,26 @@
 i have choson either Five Seconds Of Summer or Hans Zimmer
 for my theme for this project i havent chosen just one once ive done more research on the two themes i will pick one and soley focus on that one, however i have chosen a pop rock band called five seconds of summer or the well known composer known for creating some of the best movie soundtracks of all time Hans Zimmer. the music scores for 5 seconds of summer are available online many people have taken the time to cover and write out the sheet music for their songs, meta data for the band icluding, song names, members, track lists, albums, lables and so on are relatively easier to aquire as many websites and or magazines will and have reported this kind of news. as faras audio files it may be difficult to actually download them as many of the audios to their songs are streamed and downloaded in other apps such as spotify or apple music.
-i so far have had little experience with music curation and or music related data up until this class all ive had to do with music was listen to it. what i think may be challenging about the arstits or composer ive chosen might be that one group is in the pop genre and still have a very active career so it may be hard to souce some of the music data or gain access to it due to copyright. the composer i may also look at might have similar challanges as they usually create scores for films and tv shows so again gaining access to his sheetmusic or and even recordings may become difficult.
+i so far have had little experience with music curation and or music related data up until this class all ive had to do with music was listen to it. what i think may be challenging about the arstits or composer ive chosen might be that one group is in the pop genre and still have a very active career so it may be hard to souce some of the music data or gain access to it due to copyright. the composer i may also look at might have similar challanges as they usually create scores for films and tv shows so again gaining access to his sheetmusic or and even recordings may become diffic
+
+
+
 
 
 week 2 lab work <br>
 task 1 <br>
-this task was to put the cuosen music piece into muse score to generate a digitalised version of the piece. The piece i chose is "Ghost Of You" by five seconds of summer. When put into muse score the computer didnt recognise things like the text, such as the title or the lyrics. so i edited the piece on muse score, i didnt really need ro ghange any notes as the digital version managed to pick it up, only thing i had to change was the lines above some of the lines and elongate the legato lines. 
+this task was to put the cuosen music piece into muse score to generate a digitalised version of the piece. The piece i chose is "Ghost Of You" by five seconds of summer. When put into muse score the computer didnt recognise things like the text, such as the title or the lyrics. so i edited the piece on muse score, i didnt really need ro ghange any notes as the digital version managed to pick it up, only thing i had to change was the lines above some of the lines and elongate the legato lines. ive just added screen shots as i am unsure my files are actually working. 
+
+<img width="1470" alt="Screenshot 2024-12-06 at 10 43 16" src="https://github.com/user-attachments/assets/b3418e33-0c91-44bd-892a-6db95d38f067">
+[muse_score_piece.pdf](https://github.com/user-attachments/files/18037056/muse_score_piece.pdf)
+
+
 
 week 3 <br>
 task 1 <br>
 week three was converting our edited muse score piece ans converting it to XML and MEI files. 
-*insert files* or * screen shot*
+
 here can you see the two files, the three differences between them are...
+
 
 
 week 4 <br>
