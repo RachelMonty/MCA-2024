@@ -97,8 +97,10 @@ insert link or screen shot of spectigram of the audio
 ![est_rein_image](https://github.com/user-attachments/assets/8c97576d-ca94-4d97-ab6f-478841bb6671)
 
 
+![mutant_club_image](https://github.com/user-attachments/assets/352e5325-48ef-4fe4-b9c8-588ae0f00842)
 
 
+![Uploading rein_french_image.png…]()
 
 
  One advantage of a time-frequency analysis over a waveform-based analysis would be 
