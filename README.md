@@ -19,16 +19,18 @@ this task was to put the cuosen music piece into muse score to generate a digita
 week 3 <br>
 task 1 <br>
 week three was converting our edited muse score piece ans converting it to XML and MEI files. 
-[ghost_of_you.mei](
+[ghost_of_you.mei](https://github.com/RachelMonty/MCA-2024/blob/master/ghost_of_you.mei)
 [ghost_of_you.musicxml](https://github.com/RachelMonty/MCA-2024/blob/master/ghost_of_you.musicxml)
 
 here can you see the two files, the three differences between them are...
 
 here are screen shots incase the files do not work:<br>
-
+this is the XML file 
 <img width="1470" alt="Screenshot 2024-12-06 at 10 46 27" src="https://github.com/user-attachments/assets/3dccd742-954a-4867-855f-05c4b14f818b">
+ this is the MEI file
+ <img width="1470" alt="Screenshot 2024-12-06 at 10 46 07" src="https://github.com/user-attachments/assets/9428596f-ff7c-4211-a8e2-dc5b7cb9ab9a">
 
-
+ 
 
 
 
