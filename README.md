@@ -14,6 +14,10 @@ this task was to put the cuosen music piece into muse score to generate a digita
 [muse_score_piece.pdf](https://github.com/user-attachments/files/18037056/muse_score_piece.pdf)
 [muse
 
+## Ghost of You in Verovio
+
+You can view the interactive music score rendered with Verovio [here](https://your-username.github.io/your-repository-name).
+
 
 
 week 3 <br>
