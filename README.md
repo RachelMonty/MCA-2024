@@ -74,28 +74,22 @@ the classifications i have went with are:
 week 8 <br> 
 week 8 was seperate from the other lab tasks ans involved analysing recordings ans gathering metadata for them . 
 the metadata i gathered: <br> 
-Title 
-<br>
-Artist
-<br>
-Composer
-<br>
-Copyright info (if any)
-<br>
-Genre
-<br>
-Source
-<br>
-File/audio format
-<br>
-Number of channels
-<br>
-Sample rate
-<br>
-Bits per second
-<br>
-Duration
-<br>
+
+
+|               |    song1     |   song 2    | song 3       |
+| ------------- | ------------- |---------------|------------|
+|   Title       | Discorsi a vapour|   Mutant club|          |
+|   Artist      | Rein          |  HoliznaCC0  |             |
+|  Composer     |               |            |               |
+| Copyright info)|              |  public domain             |            |
+| Genre         |  pop rock     |     pop       |            |
+|  Source       |     fma       |     fma       |            |
+|File/audio format|       mp3   |      mp3     |             |
+|Number of channels|            |            |               |   
+|Sample rate       |            |            |               |
+|Bits per second   |            |            |               |
+|Duration          |    5.21    |      2.10  |               |
+
 
 task 2 
 insert link or screen shot of spectigram of the audio 
