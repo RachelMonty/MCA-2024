@@ -1,4 +1,4 @@
-#week 1
+# week 1
 
 i have choson either Five Seconds Of Summer or Hans Zimmer
 for my theme for this project i havent chosen just one once ive done more research on the two themes i will pick one and soley focus on that one, however i have chosen a pop rock band called five seconds of summer or the well known composer known for creating some of the best movie soundtracks of all time Hans Zimmer. the music scores for 5 seconds of summer are available online many people have taken the time to cover and write out the sheet music for their songs, meta data for the band icluding, song names, members, track lists, albums, lables and so on are relatively easier to aquire as many websites and or magazines will and have reported this kind of news. as faras audio files it may be difficult to actually download them as many of the audios to their songs are streamed and downloaded in other apps such as spotify or apple music.
@@ -8,8 +8,8 @@ i so far have had little experience with music curation and or music related dat
 
 
 
-#week 2 lab work <br>
-task 1 <br>
+# week 2 lab work <br>
+### task 1 <br>
 this task was to put the cuosen music piece into muse score to generate a digitalised version of the piece. The piece i chose is "Ghost Of You" by five seconds of summer. When put into muse score the computer didnt recognise things like the text, such as the title or the lyrics. so i edited the piece on muse score, i didnt really need ro ghange any notes as the digital version managed to pick it up, only thing i had to change was the lines above some of the lines and elongate the legato lines. ive just added screen shots as i am unsure my files are actually working. 
 
 <img width="1470" alt="Screenshot 2024-12-06 at 10 43 16" src="https://github.com/user-attachments/assets/b3418e33-0c91-44bd-892a-6db95d38f067">
@@ -18,8 +18,8 @@ this task was to put the cuosen music piece into muse score to generate a digita
 
 
 
-#week 3 <br>
-task 1 <br>
+# week 3 <br>
+### task 1 <br>
 week three was converting our edited muse score piece ans converting it to XML and MEI files. 
 [ghost_of_you.mei](https://github.com/RachelMonty/MCA-2024/blob/master/ghost_of_you.mei)
 [ghost_of_you.musicxml](https://github.com/RachelMonty/MCA-2024/blob/master/ghost_of_you.musicxml)
@@ -38,8 +38,8 @@ this is the XML file
 
 
 
-#week 4 <br>
-task 1 <br>
+# week 4 <br>
+## task 1 <br>
 this week was uploading our mei files into jsymbolic and looking at what the <br>
 range:29
 <br>
@@ -59,7 +59,7 @@ and most common rhythmic value: 3
 ![piano,_roll](https://github.com/user-attachments/assets/d1a262cb-d38d-4154-9c0b-81fa2c49adde)
 
 
-#week 5 <br>
+# week 5 <br>
 week 5 was including the metadata aboht the piece into the mei files. Using the mei metadata standards i was able to identify the tags and the order in which they shoukd appear, i did use mei friend to in put the code and change it * screen shot* 
 but i dont think it linked with my github so i just edited it on the verevio. 
 the metadata i included: <br>
@@ -69,7 +69,7 @@ colaborations: Mitchy Collins and Andrew Goldstein. <br>
 Editor/produer: Andy Goldstein<br>
 publisher: Capitol Records <br> 
 
-#week 7 <br> 
+# week 7 <br> 
 week seven was to create  second mei file of the peice and add  genre clasifcations 
 the classifications i have went with are: 
 
@@ -77,7 +77,7 @@ the classifications i have went with are:
 
 
 
-#week 8 <br> 
+# week 8 <br> 
 week 8 was seperate from the other lab tasks ans involved analysing recordings ans gathering metadata for them . 
 the metadata i gathered: <br> 
 
@@ -97,7 +97,7 @@ the metadata i gathered: <br>
 |Duration          |    5.21    |      2.10  |       3.40         |
 
 
-task 2 
+## task 2 
 insert link or screen shot of spectigram of the audio 
 
 ![est_rein_image](https://github.com/user-attachments/assets/8c97576d-ca94-4d97-ab6f-478841bb6671)
@@ -111,7 +111,7 @@ insert link or screen shot of spectigram of the audio
 
  One advantage of a time-frequency analysis over a waveform-based analysis would be
 
-#week 9 <br<
+# week 9 <br<
 
 i chose to seperate my piece into three different section to the:
 first verse <br>
