@@ -52,9 +52,15 @@ last pitch: 58
 and most common rhythmic value: 3
 <br>
 
-![piano,_roll](https://github.com/user-attachments/assets/020ee10f-94cf-4462-9f59-be36573d1978)
+this is the piano roll
+![piano,_roll](https://github.com/user-attachments/assets/020ee10f-94cf-4462-9f59-be36573d1978) <br>
 
-![scatter_plot](https://github.com/user-attachments/assets/14c3d67b-a9c6-4a69-a5ce-8d33fd4089b5)
+this i the scatter plot 
+![scatter_plot](https://github.com/user-attachments/assets/14c3d67b-a9c6-4a69-a5ce-8d33fd4089b5) <br>
+
+and this is the hisogram graph 
+![hsitogram_graph](https://github.com/user-attachments/assets/02d28182-f44e-45e6-aae8-3e255fcc4f79) <br>
+
 
 
 
@@ -103,15 +109,9 @@ the metadata i gathered: <br>
 
 
 ## task 2 
-insert link or screen shot of spectigram of the audio 
-
-![est_rein_image](https://github.com/user-attachments/assets/8c97576d-ca94-4d97-ab6f-478841bb6671)
+![est_rein_image](https://github.com/user-attachments/assets/36b91489-e64e-44b3-943c-71b6d429a9ac) 
 
 
-![mutant_club_image](https://github.com/user-attachments/assets/352e5325-48ef-4fe4-b9c8-588ae0f00842)
-
-
-![Uploading rein_french_image.png…]()
 
 
  One advantage of a time-frequency analysis over a waveform-based analysis would be
