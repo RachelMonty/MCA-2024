@@ -41,18 +41,22 @@ this is the XML file
 #week 4 <br>
 task 1 <br>
 this week was uploading our mei files into jsymbolic and looking at what the <br>
-range:
+range:29
 <br>
-mean pitch:
+mean pitch:67
 <br>
-most common pitch class:
+most common pitch class:10
 <br>
-last pitch: 
+last pitch: 58
 <br>
-and most common rhythmic value: 
+and most common rhythmic value: 3
 <br>
 
-insert screen shot of histograms and graphs 
+![piano,_roll](https://github.com/user-attachments/assets/020ee10f-94cf-4462-9f59-be36573d1978)
+
+![scatter_plot](https://github.com/user-attachments/assets/14c3d67b-a9c6-4a69-a5ce-8d33fd4089b5)
+
+![piano,_roll](https://github.com/user-attachments/assets/d1a262cb-d38d-4154-9c0b-81fa2c49adde)
 
 
 #week 5 <br>
