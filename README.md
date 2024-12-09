@@ -56,12 +56,16 @@ and most common rhythmic value: 3
 
 ![scatter_plot](https://github.com/user-attachments/assets/14c3d67b-a9c6-4a69-a5ce-8d33fd4089b5)
 
-![piano,_roll](https://github.com/user-attachments/assets/d1a262cb-d38d-4154-9c0b-81fa2c49adde)
 
 
 # week 5 <br>
 week 5 was including the metadata aboht the piece into the mei files. Using the mei metadata standards i was able to identify the tags and the order in which they shoukd appear, i did use mei friend to in put the code and change it * screen shot* 
 but i dont think it linked with my github so i just edited it on the verevio. 
+<img width="1470" alt="Screenshot 2024-12-09 at 22 29 01" src="https://github.com/user-attachments/assets/a81345f6-1c5c-43c2-a68b-f260e217654f">
+
+
+
+
 the metadata i included: <br>
 Title: Ghost Of You <br>
 artist/composer: 5 Seconds Of Summer/ Luke Hemmings, Calum Hood, Ashton Irwin & Michael clifford. <br>
@@ -71,7 +75,8 @@ publisher: Capitol Records <br>
 
 # week 7 <br> 
 week seven was to create  second mei file of the peice and add  genre clasifcations 
-the classifications i have went with are: 
+the classifications i have went with are: are, alternative, classical piano, pop 
+i edited t into my MEi file whihch you can see above. 
 
 
 
