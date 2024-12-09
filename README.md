@@ -118,14 +118,15 @@ first verse <br>
 chorus<br>
 bridge<br>
 
-![verse1](https://github.com/user-attachments/assets/6ab59b9d-746c-43c4-96d5-5dd97f45de87)
+## this is the verse 1 
+![verse1](https://github.com/user-attachments/assets/6ab59b9d-746c-43c4-96d5-5dd97f45de87) <br>
 
 
+## this is the chorus
+ ![chorus](https://github.com/user-attachments/assets/4e73dffe-4008-4020-94ce-df33835b2475) <br>
 
- ![chorus](https://github.com/user-attachments/assets/4e73dffe-4008-4020-94ce-df33835b2475)
-
-
-![bridge](https://github.com/user-attachments/assets/8d3783ca-d7a1-4484-9560-6bd773e649c8)
+## this is the bridge 
+![bridge](https://github.com/user-attachments/assets/8d3783ca-d7a1-4484-9560-6bd773e649c8) <br>
 
 
 
