@@ -125,6 +125,15 @@ bridge<br>
  ![chorus](https://github.com/user-attachments/assets/4e73dffe-4008-4020-94ce-df33835b2475)
 
 
+![bridge](https://github.com/user-attachments/assets/8d3783ca-d7a1-4484-9560-6bd773e649c8)
+
+
+
+
+
+
+
+
 
 
 
