@@ -118,10 +118,12 @@ first verse <br>
 chorus<br>
 bridge<br>
 
+![verse1](https://github.com/user-attachments/assets/6ab59b9d-746c-43c4-96d5-5dd97f45de87)
 
 
 
- 
+ ![chorus](https://github.com/user-attachments/assets/4e73dffe-4008-4020-94ce-df33835b2475)
+
 
 
 
